@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="504" height="500" viewBox="0 0 504 500">
+  <g id="Grupo_141625" data-name="Grupo 141625" transform="translate(-490 -12604.621)">
+    <path id="Trazado_207346" data-name="Trazado 207346" d="M-8538.668,956.667s46.707,123.574,153.74,231.58,242.283,133.3,242.283,133.3" transform="translate(9109.429 11723.743)" fill="none" stroke="#fe7062" stroke-linecap="round" stroke-width="3"/>
+    <path id="Trazado_207347" data-name="Trazado 207347" d="M-8543.334,1315.406s110.926-41.84,210.66-141.089,143.521-216.985,143.521-216.985" transform="translate(9107.284 11724.049)" fill="none" stroke="#91b3fa" stroke-linecap="round" stroke-width="3"/>
+    <path id="Trazado_207348" data-name="Trazado 207348" d="M-8565.334,1126.667h211.146v140.115" transform="translate(9097.175 11801.864)" fill="none" stroke="#707070" stroke-width="1" stroke-dasharray="3"/>
+    <path id="Trazado_207349" data-name="Trazado 207349" d="M-8568,925v435.672h456.834" transform="translate(9097.407 11710.65)" fill="none" stroke="#707070" stroke-width="2"/>
+    <text id="Precio_P_" data-name="Precio
+(P)" transform="translate(490 12623.621)" fill="#12263f" font-size="20" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">Precio</tspan><tspan x="0" y="23">(P)</tspan></text>
+    <text id="P" transform="translate(508 12934.621)" fill="#12263f" font-size="20" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">P</tspan></text>
+    <text id="Q" transform="translate(734 13093.621)" fill="#12263f" font-size="21" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">Q</tspan></text>
+    <text id="Cantidad_Q_" data-name="Cantidad (Q)" transform="translate(880 13099.621)" fill="#12263f" font-size="20" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">Cantidad (Q)</tspan></text>
+    <g id="Polígono_3" data-name="Polígono 3" transform="translate(524 12634.621)" fill="#707070">
+      <path d="M 10.33473777770996 18.5 L 0.6652623414993286 18.5 L 5.5 1.798179149627686 L 10.33473777770996 18.5 Z" stroke="none"/>
+      <path d="M 5.5 3.596358299255371 L 1.330524444580078 18 L 9.669475555419922 18 L 5.5 3.596358299255371 M 5.5 0 L 11 19 L 0 19 L 5.5 0 Z" stroke="none" fill="#707070"/>
+    </g>
+    <g id="Polígono_4" data-name="Polígono 4" transform="translate(992.811 13065.728) rotate(90)" fill="#707070">
+      <path d="M 10.99932098388672 18.47398376464844 L 0.6769798398017883 18.47398376464844 L 5.838150501251221 1.700185656547546 L 10.99932098388672 18.47398376464844 Z" stroke="none"/>
+      <path d="M 5.838150501251221 3.40037727355957 L 1.353961944580078 17.97398376464844 L 10.32233905792236 17.97398376464844 L 5.838150501251221 3.40037727355957 M 5.838150501251221 3.814697265625e-06 L 11.67630004882812 18.97398376464844 L 9.5367431640625e-07 18.97398376464844 L 5.838150501251221 3.814697265625e-06 Z" stroke="none" fill="#707070"/>
+    </g>
+  </g>
+</svg>
