@@ -2,7 +2,7 @@ export default {
   global: {
     componenteFormativo: 'Proyección y requerimientos de compras',
     descripcionCurso:
-      'Las compras son la necesidad de los actores del proceso logístico, por un lado están quienes necesitan comercializar y por otro quienes requieren cada producto, eso se entiende como un mercado y en este se pueden proyectar algunos de esos movimientos; como por ejemplo, proyectar el impacto que un producto va a tener en un respectivo mercado y cómo será su interacción con el cliente objetivo.',
+      'Las compras son la necesidad de los actores del proceso logístico, por un lado, están quienes necesitan comercializar y por otro quienes requieren cada producto, eso se entiende como un mercado y en este se pueden proyectar algunos de esos movimientos; como por ejemplo, proyectar el impacto que un producto va a tener en un respectivo mercado y cómo será su interacción con el cliente objetivo.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.svg'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -206,7 +206,7 @@ export default {
     {
       termino: 'Mercado competitivo',
       significado:
-        'Mercado en el que concurren muchos compradores y vendedores de tal manera que la influencia que ejerce cada uno de ellos sobre los precios es insignificante.',
+        'Mercado en el que concurren muchos compradores y vendedores, de tal manera que la influencia que ejerce cada uno de ellos sobre los precios es insignificante.',
     },
     {
       termino: 'Oferta',
@@ -272,15 +272,15 @@ export default {
       titulo: 'ECOSISTEMA DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Claudia Patricia Aristizabal',
-          cargo: 'Responsable del Ecosistema',
+          nombre: 'Claudia Patricia Aristizábal Gutiérrez',
+          cargo: 'Responsable del equipo',
           centro: 'Dirección General',
         },
         {
-          nombre: 'Rafael Neftalí Lizcano Reyes',
-          cargo: 'Responsable de Línea de Producción',
+          nombre: 'Liliana Victoria Morales Gualdrón',
+          cargo: 'Responsable de línea de producción',
           centro:
-            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+            'Centro de Gestión De Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
         },
       ],
     },
@@ -288,10 +288,39 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Nombre del rol',
+          nombre: 'Rafael Rodríguez Cuéllar',
+          cargo: 'Instructor Experto Temático',
           centro:
-            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+            'Regional Huila - Centro de la Industria, la Empresa y los Servicios',
+        },
+        {
+          nombre: 'Luis Fernando Botero Mendoza',
+          cargo: 'Diseñador Instruccional',
+          centro:
+            'Regional Distrito Capital – Centro para la Industria de la Comunicación Gráfica',
+        },
+        {
+          nombre: 'Andrés Felipe Velandia Espitia',
+          cargo: 'Revisor Metodológico y Pedagógico',
+          centro: 'Regional Distrito Capital – Centro de Diseño y Metrología',
+        },
+        {
+          nombre: 'Rafael Neftalí Lizcano Reyes',
+          cargo: 'Asesor Pedagógico',
+          centro:
+            'Regional Santander - Centro Industrial del Diseño y La Manufactura',
+        },
+        {
+          nombre: 'Jhon Jairo Rodríguez Pérez',
+          cargo: 'Diseñador y evaluador instruccional',
+          centro:
+            'Regional Distrito Capital - Centro para la Industria de la Comunicación Gráfica',
+        },
+        {
+          nombre: 'Nelly Parra Guarín',
+          cargo: 'Adecuación instruccional - 2023',
+          centro:
+            'Centro de Gestión De Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
         },
       ],
     },
@@ -299,28 +328,34 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Diseñador de Contenidos Digitales',
+          nombre: 'Adriana Marcela Suarez Eljure',
+          cargo: 'Diseño web-2023',
           centro:
-            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+            'Centro de Gestión De Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
         },
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Desarrollador Fullstack',
+          nombre: 'Luis Jesús Pérez Madariaga',
+          cargo: 'Desarrollo Fullstack-2023',
           centro:
-            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+            'Centro de Gestión De Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
         },
         {
-          nombre: 'Nombre',
-          cargo: 'Animador y Producción audiovisual',
+          nombre: 'Lady Adriana Ariza Luque',
+          cargo: 'Animación y Producción audiovisual',
           centro:
-            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+            'Centro de Gestión De Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
         },
         {
-          nombre: 'Nombre',
-          cargo: 'Actividad Didáctica',
+          nombre: 'Laura Gisselle Murcia Pardo',
+          cargo: 'Animación y Producción audiovisual',
           centro:
-            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+            'Centro de Gestión De Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
+        },
+        {
+          nombre: 'Ernesto Navarro Jaimes',
+          cargo: 'Animación y Producción audiovisual',
+          centro:
+            'Centro de Gestión De Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
         },
       ],
     },
@@ -328,22 +363,22 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: 'Zuleidy María Ruiz Torres',
-          cargo: 'Validador de Recursos Educativos Digitales',
+          nombre: 'Carolina Coca Salazar',
+          cargo: 'Evaluación de contenidos inclusivos y accesibles',
           centro:
-            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+            'Centro de Gestión De Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
         },
         {
-          nombre: 'Luis Gabriel Urueta Alvarez',
-          cargo: 'Validador de Recursos Educativos Digitales',
+          nombre: 'Lina Marcela Pérez Manchego',
+          cargo: 'Validación de recursos educativos digitales',
           centro:
-            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+            'Centro de Gestión De Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
         },
         {
-          nombre: 'Daniel Ricardo Mutis Gómez',
-          cargo: 'Evaluador para contenidos inclusivos y accesibles',
+          nombre: 'Leyson Fabian Castaño Pérez',
+          cargo: 'Validación de recursos educativos digitales',
           centro:
-            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+            'Centro de Gestión De Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
         },
       ],
     },

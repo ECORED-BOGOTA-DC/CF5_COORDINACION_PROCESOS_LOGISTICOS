@@ -21,7 +21,7 @@
       .row.col-xl-11.m-auto(titulo="Variable cualitativa")
         p Generalmente se refiere a la calidad basada en atributos no numéricos. Estas variables son propiedades únicas de la condición (mutuamente excluyentes) y, si solo hay una posibilidad conocida (completa), un tipo nominal. Si el atributo solo acepta dos condiciones, las variables reciben el nombre de nominales dicotómicas, pero si hay más posibilidades se les denomina nominales politómicas, por ejemplo: el color de las frutas como la guayaba o manzana. 
       .row.col-xl-11.m-auto(titulo="Variable cuantitativa")
-        p Está determinada por la presencia o ausencia de una unidad de medida. Las unidades de medida se pueden calcular, medir o ponderar de acuerdo con las propiedades físicas de cualquier dispositivo. De manera similar, si aceptamos fracciones, podemos clasificarlas como continuas, y si consideramos solo unidades enteras, podemos clasificarlas como discretas. Por ejemplo, la altura (en centímetros) o el peso (en kilogramos) de una persona.
+        p Está determinada por la presencia o ausencia de una unidad de medida. Las unidades de medida se pueden calcular, medir o ponderar de acuerdo con las propiedades físicas de cualquier dispositivo. De manera similar, si aceptamos fracciones, podemos clasificarlas como continúas, y si consideramos solo unidades enteras, podemos clasificarlas como discretas. Por ejemplo, la altura (en centímetros) o el peso (en kilogramos) de una persona.
     
     h4.mt-5(data-aos="fade-right" style="color:#1A0F91;") Medidas de tendencia central y de dispersión
 
@@ -48,14 +48,11 @@
           figure
             img(src='@/assets/curso/tema2/1.svg' data-aos="zoom-in-up")
         div(x="11.5%" y="70%" tooltip="Medidas de dispersión" numero="+")
-          h5(style="color:#12263F !important;") Medidas de dispersión
-          p.mt-3(style="color:#12263F !important;") Esto le dará una idea de cómo escaparon los datos dentro del rango medido en términos de media y distribución. Hay tres formas de medir la varianza de una variable cuantitativa: la desviación estándar o desviación típica, los rangos intercuartílicos y los valores mínimo y máximo. 
+          p(style="color:#12263F !important;") Esto le dará una idea de cómo escaparon los datos dentro del rango medido en términos de media y distribución. Hay tres formas de medir la varianza de una variable cuantitativa: la desviación estándar o desviación típica, los rangos intercuartílicos y los valores mínimo y máximo. 
         div(x="30.5%" y="25%" tooltip="Medidas de posición " numero="+")
-          h5(style="color:#12263F !important;") Medidas de posición 
-          p.mt-3(style="color:#12263F !important;") No son las más conocidas, pero se utilizan frecuentemente. Ejemplos de esto son porcentajes o minoría. Si algunos datos están en el percentil 90, significa que están por debajo del percentil 90. Hay medidas en otras ubicaciones, como los cuartiles, o en variaciones como los primeros cuartiles.
+          p(style="color:#12263F !important;") No son las más conocidas, pero se utilizan frecuentemente. Ejemplos de esto son porcentajes o minoría. Si algunos datos están en el percentil 90, significa que están por debajo del percentil 90. Hay medidas en otras ubicaciones, como los cuartiles, o en variaciones como los primeros cuartiles.
         div(x="50%" y="70%" tooltip="Distribución de frecuencias" numero="+")
-          h5(style="color:#12263F !important;") Distribución de frecuencias  
-          p.mt-3(style="color:#12263F !important;") También es interesante ver cómo se distribuyen las frecuencias. Para ello, existen ciertos conceptos a tener en cuenta como lo son:
+          p(style="color:#12263F !important;") También es interesante ver cómo se distribuyen las frecuencias. Para ello, existen ciertos conceptos a tener en cuenta como lo son:
           ul.fa-ul.mt-3
             li.mb-2(style="color:#12263F !important;")
               i.fas.fa-check.fa-li(style="color:#00BCD4;")
@@ -67,12 +64,10 @@
               i.fas.fa-check.fa-li(style="color:#00BCD4;")
               | #[strong Frecuencia acumulada:] puede ser relativa acumulada o absoluta acumulada. Muestra la cantidad acumulada hasta una observación específica.
         div(x="69%" y="25%" tooltip="Tablas" numero="+")
-          h5(style="color:#12263F !important;") Tablas 
-          p.mt-3(style="color:#12263F !important;") Contiene una matriz de datos que le permite definir métricas específicas para las mediciones realizadas. Consta de tres partes básicas: el título, el cuerpo (encabezado de la tabla y matriz de datos) y restricciones o descripciones explícitas. 
+          p(style="color:#12263F !important;") Contiene una matriz de datos que le permite definir métricas específicas para las mediciones realizadas. Consta de tres partes básicas: el título, el cuerpo (encabezado de la tabla y matriz de datos) y restricciones o descripciones explícitas. 
           p.mt-3(style="color:#12263F !important;") El título proporciona información sobre el contenido de la tabla, las variables que se mostrarán, el número de sujetos y la unidad de investigación.
         div(x="89%" y="70%" tooltip="Gráficos" numero="+")
-          h5(style="color:#12263F !important;") Gráficos  
-          p.mt-3(style="color:#12263F !important;") Se utiliza para mostrar tendencias, no datos puntuales. También es muy útil comparar visualmente los resultados de los grupos. Se utilizan principalmente para destacar descubrimientos y hallazgos importantes. Ayudan a presentar la información de una manera más simple y restringida. Algunos ejemplos de gráficos y tablas frecuentemente utilizados:
+          p(style="color:#12263F !important;") Se utiliza para mostrar tendencias, no datos puntuales. También es muy útil comparar visualmente los resultados de los grupos. Se utilizan principalmente para destacar descubrimientos y hallazgos importantes. Ayudan a presentar la información de una manera más simple y restringida. Algunos ejemplos de gráficos y tablas frecuentemente utilizados:
           ul.fa-ul.mt-3
             li.mb-2(style="color:#12263F !important;")
               i.fas.fa-check.fa-li(style="color:#00BCD4;")
@@ -127,7 +122,7 @@
     Separador.mt-5
 
     .titulo-segundo
-      h2#t_2_3 2.3  Evaluar el comportamiento de la empresa frente al mercado – #[em Benchmarking]
+      h2#t_2_3 2.3  Evaluar el comportamiento de la empresa frente al mercado – #[em benchmarking]
     
     p(data-aos="zoom-in") El mercado es el mismo para varias empresas, cada empresa que comparte nicho puede aportar a las otras de su nicho a pesar de ser considerada como competencia, esto evidencia que en realidad no hay competencias, son empresas con diferentes niveles de servicio que comparten un grupo de clientes potenciales y eso sirve para mucho como se puede ver en el siguiente recurso:
 
@@ -196,7 +191,7 @@
               img(src='@/assets/curso/tema2/8.svg')
           .col-md-6.col-lg-7
             p El #[em Benchmarking] nace con la necesidad de definir objetivos que sean razonables y alcanzables, para ello es necesario que se centren en el entorno externo de la empresa, dejando a un lado el entorno interno y las tendencias pasadas de la compañía.
-            p.mt-4 El beneficio que podemos obtener del #[em Benchmarking] es la ayuda que nos proporciona para poder ampliar las expectativas y la confianza de nuestros clientes. Para poder llegar hasta ese punto, las empresas competitivas deben estar continuamente cambiando y adaptándose al mercado. Por ello es necesario motivar al personal para que confíen en una organización y por lo tanto conseguir los nuevos objetivos trazados.
+            p.mt-4 El beneficio que podemos obtener del #[em Benchmarking] es la ayuda que nos proporciona para poder ampliar las expectativas y la confianza de nuestros clientes. Para poder llegar hasta ese punto, las empresas competitivas deben estar continuamente cambiando y adaptándose al mercado. Por ello es necesario motivar al personal para que confíen en una organización, y por lo tanto, conseguir los nuevos objetivos trazados.
     
     p.mt-5(data-aos="zoom-in") Elaborar el proceso del benchmarking no es complicado, pero si tiene un orden, revisar todo lo que hacen las otras empresas puede tomar mucho tiempo y por eso es necesario ordenarlo en busca de resultados más objetivos. Se recomienda el siguiente proceso a la hora de elaborar el benchmarking:
 
@@ -281,7 +276,7 @@
           li.mb-2(style="color:#12263F !important;")
             i.fas.fa-check.fa-li(style="color:#00BCD4;")
             | Optimiza de interrupciones y retrasos de flota. Dificultad en la implementación.
-      .tarjeta.color-acento-botones--borde.p-4(titulo="Dificultades en la implementación")
+      .tarjeta.color-acento-botones--borde.p-4(titulo="Dificultades en <br> la implementación")
         ul.fa-ul
           li.mb-2(style="color:#12263F !important;")
             i.fas.fa-check.fa-li(style="color:#00BCD4;")
@@ -319,7 +314,7 @@
             span.text-bold 2. 
             | Minimícelos. Cuantos más factores tenga, más probabilidades tendrá de obtener una estimación incorrecta, lo que dificulta determinar cómo afecta cada factor a la demanda.
       .row.col-xl-11.m-auto(titulo="Encuesta de las intenciones del comprador")
-        p Un aspecto básico de una Encuesta de intención del comprador es preguntar a una muestra de clientes actuales o potenciales cuánto comprarán de un producto durante un período de tiempo específico en el futuro a un precio específico. Seleccionar una muestra representativa de compradores potenciales puede resultar complicado. Muchos productos de consumo requieren muestras bastante grandes. Por lo tanto, la investigación es un método costoso y que requiere mucho tiempo. 
+        p Un aspecto básico de una encuesta de intención del comprador es preguntar a una muestra de clientes actuales o potenciales cuánto comprarán de un producto durante un período de tiempo específico en el futuro a un precio específico. Seleccionar una muestra representativa de compradores potenciales puede resultar complicado. Muchos productos de consumo requieren muestras bastante grandes. Por lo tanto, la investigación es un método costoso y que requiere mucho tiempo. 
         p.mt-2 Este método le permite pronosticar con precisión la demanda cuando: 
         ol.lista-ol
           li 

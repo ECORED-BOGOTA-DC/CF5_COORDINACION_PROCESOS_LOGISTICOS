@@ -56,7 +56,7 @@
           p.mb-0 La estimación de la demanda es la predicción de la forma futura de la demanda de un producto. La información con respecto a la demanda futura variará según el producto o servicio ofrecido, y “es esencial para la planificación y programación de la producción, la compra de materias primas, adquisición de las finanzas y la publicidad, y también nos ayuda a ajustar los precios al ofertar un nuevo producto o al iniciar un nuevo negocio; durante un período definido de tiempo” Escuela de Organización Industrial (2012).
     
     p.mt-5(data-aos="zoom-in") La medida de la demanda para un producto o servicio será la cantidad de personas que lo compran o hacen uso del mismo.
-    p.mt-4(data-aos="zoom-in") Se hace necesario encontrar un balance entre lo que se produce y lo que se requiere para evitar pérdidas por mal gasto de stock y más cuando se trata de productos perecederos o de rotación baja como por ejemplo los productos que se presentan para compras cada largo periodo de tiempo, es ahí donde se debe estimar el nivel de impacto que puede tener un producto o servicio en el mercado y la cantidad a producir.
+    p.mt-4(data-aos="zoom-in") Se hace necesario encontrar un balance entre lo que se produce y lo que se requiere para evitar pérdidas por malgasto de stock y más cuando se trata de productos perecederos o de rotación baja como por ejemplo los productos que se presentan para compras cada largo periodo de tiempo, es ahí donde se debe estimar el nivel de impacto que puede tener un producto o servicio en el mercado y la cantidad a producir.
 
     .col-xl-8.m-auto.col-lg-10.mt-5
       .cajon.color-acento-contenido.p-4(style="background-color:#D5F6F5;" data-aos="flip-up")
@@ -67,7 +67,7 @@
 
     h4.mt-5(data-aos="fade-right" style="color:#1A0F91;") Productos básicos no perceptibles
 
-    p.mt-4(data-aos="zoom-in") Esta es la categoría más simple de los productos en términos de evaluación. Las características principales de los productos básicos no perecibles son tres (3) y s muestran en el siguiente recurso:
+    p.mt-4(data-aos="zoom-in") Esta es la categoría más simple de los productos en términos de evaluación. Las características principales de los productos básicos no perecibles son tres (3) y se muestran en el siguiente recurso:
 
     AcordionA.mt-5(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")
       .row.col-xl-11.m-auto(titulo="Primera")
@@ -119,7 +119,7 @@
         p.mt-4 Si el precio del producto se rebaja, las cantidades ofrecidas se reducen y la demanda aumenta. Esto puede conducir a incrementos en el precio hasta un nuevo equilibrio.
       .tarjeta.color-acento-botones--borde.p-4(titulo="Tecnología")
         p La incorporación de tecnología lleva a la reducción de costos e incrementos en la cantidad producida, dado que se logra una mayor eficiencia.
-      .tarjeta.color-acento-botones--borde.p-4(titulo="Disponibilidad de insumos y sus precios")
+      .tarjeta.color-acento-botones--borde.p-4(titulo="Disponibilidad de insumos <br> y sus precios")
         p Cuando los insumos son escasos se limita la cantidad de bienes producidos. Igualmente, si su precio aumenta habrá un incremento en el coste del producto del cual forman parte.
       .tarjeta.color-acento-botones--borde.p-4(titulo="Intromisión en el mercado")
         p Al aplicar subsidios e impuestos, el Estado perturba la oferta de los productos. Cualquier impuesto incrementa los costos y por consiguiente, la oferta se contrae. Un subsidio crea el efecto contrario: reduce el costo de producción y aumenta la oferta.
@@ -154,8 +154,7 @@
           figure
             img(src='@/assets/curso/tema1/6.svg')
         .tarjeta.color-acento-botones.bg-white.p-3(x="25.5%" y="16%" numero="" style="background-color:#F6F9FF;box-shadow:0px 0px 20px rgba(0,0,0,0.15);")
-          h5.mb-0(style="color:inherit;") Método 1: Análisis de series temporales
-          p.mt-3 El primero de los métodos para pronosticar la oferta y la demanda de un producto es aquel que se basa en el análisis de datos históricos que sirvan para predecir el futuro del mismo, incluyendo:
+          p El primero de los métodos para pronosticar la oferta y la demanda de un producto es aquel que se basa en el análisis de datos históricos que sirvan para predecir el futuro del mismo, incluyendo:
           ul.lista-ul.mt-3
             li
               i.lista-ul__vineta
@@ -167,15 +166,12 @@
               i.lista-ul__vineta
               | Factores cíclicos y estacionales.
         .tarjeta.color-acento-botones.bg-white.p-3(x="58.5%" y="16%" numero="" style="background-color:#F6F9FF;box-shadow:0px 0px 20px rgba(0,0,0,0.15);")
-          h5.mb-0(style="color:inherit;") Método 2: Análisis estadístico
-          p.mt-3 Este se distingue porque en lugar de medir la relación entre tiempo y venta, mide la relación entre venta y factores que la pueden afectar. Por lo tanto, este método puede utilizar diferentes sistemas con distintos números de variables, aunque siempre siguiendo un análisis matemático estricto que nos va a arrojar datos duros. Los cuales, a pesar de su naturaleza, suelen ser bastante intuitivos para darnos caminos de acción.
+          p Este se distingue porque en lugar de medir la relación entre tiempo y venta, mide la relación entre venta y factores que la pueden afectar. Por lo tanto, este método puede utilizar diferentes sistemas con distintos números de variables, aunque siempre siguiendo un análisis matemático estricto que nos va a arrojar datos duros. Los cuales, a pesar de su naturaleza, suelen ser bastante intuitivos para darnos caminos de acción.
         .tarjeta.color-acento-botones.bg-white.p-3(x="92%" y="16%" numero="" style="background-color:#F6F9FF;box-shadow:0px 0px 20px rgba(0,0,0,0.15);")
-          h5.mb-0(style="color:inherit;") Método 3: Pruebas de mercado 
-          p.mt-3 Este es uno de los métodos para pronosticar la demanda de un producto que no debe confundirse con las investigaciones de mercado iniciales. Pues en este caso las pruebas se realizan con los nuevos productos o servicios ya puestos en sitios de ventas representativos para así, literalmente, probarlos con los compradores potenciales. De esta forma, los resultados que se obtienen suelen ser de los más acertados y valiosos de forma cualitativa, pues acercan nuestro producto a las reacciones reales de su mercado. 
+          p Este es uno de los métodos para pronosticar la demanda de un producto que no debe confundirse con las investigaciones de mercado iniciales. Pues en este caso las pruebas se realizan con los nuevos productos o servicios ya puestos en sitios de ventas representativos para así, literalmente, probarlos con los compradores potenciales. De esta forma, los resultados que se obtienen suelen ser de los más acertados y valiosos de forma cualitativa, pues acercan nuestro producto a las reacciones reales de su mercado. 
           p.mt-3 Se deberá tener especial cuidado con los cambios en la demanda (pues puede variar bastante entre la inicial y la que se vaya desarrollando). Además de que representa un esfuerzo importante en cuanto a recursos materiales, económicos y humanos.
         .tarjeta.color-acento-botones.bg-white.p-3(x="92%" y="56%" numero="" style="background-color:#F6F9FF;box-shadow:0px 0px 20px rgba(0,0,0,0.15);")
-          h5.mb-0(style="color:inherit;") Método 4: Opiniones y expectativas de los consumidores
-          p.mt-3 Este es otro de los métodos para pronosticar la oferta y la demanda de un producto que se basa en el comportamiento de los usuarios al analizar directamente las respuestas de los clientes en cuanto a:
+          p Este es otro de los métodos para pronosticar la oferta y la demanda de un producto que se basa en el comportamiento de los usuarios al analizar directamente las respuestas de los clientes en cuanto a:
           ul.fa-ul.mt-3
             li
               i.fas.fa-li.fa-angle-right(style="color:#00BCD4;")
@@ -190,12 +186,10 @@
               i.fas.fa-li.fa-angle-right(style="color:#00BCD4;")
               | Dependiendo, en gran medida, de la exactitud y honestidad de las respuestas, así como de la experiencia y pericia del personal que lo realice para interpretarlas y usarlas.
         .tarjeta.color-acento-botones.bg-white.p-3(x="92%" y="93%" numero="" style="background-color:#F6F9FF;box-shadow:0px 0px 20px rgba(0,0,0,0.15);")
-          h5.mb-0(style="color:inherit;") Método 5: Consulta a fuerza de ventas 
-          p.mt-3 El quinto de los métodos para pronosticar la oferta y la demanda de un producto es uno que se basa en un grupo completamente distinto de los que ya hemos visto. La propia fuerza de ventas, consultándolos sobre sus estimaciones de venta en períodos específicos. 
+          p El quinto de los métodos para pronosticar la oferta y la demanda de un producto es uno que se basa en un grupo completamente distinto de los que ya hemos visto. La propia fuerza de ventas, consultándolos sobre sus estimaciones de venta en períodos específicos. 
           p.mt-3 Eso sí es sumamente importante que estos datos sean ajustados, combinados, comparados y discutidos para así llegar a pronósticos veraces. Pues suelen ser exagerados por el positivismo o las expectativas de los propios vendedores; e, igualmente, se recomienda revalorarlos al menos cada seis (6) meses.
         .tarjeta.color-acento-botones.bg-white.p-3(x="59%" y="93%" numero="" style="background-color:#F6F9FF;box-shadow:0px 0px 20px rgba(0,0,0,0.15);")
-          h5.mb-0(style="color:inherit;") Método 6: Panel de ejecutivos y directivos
-          p.mt-3 El siguiente de los métodos para pronosticar la oferta y la demanda de un producto es otro que también considera la opinión y los datos internos de la empresa. Pero esta vez de parte de sus directivos y ejecutivos, y suele hacerse a través de cuestionarios que incluyen:
+          p El siguiente de los métodos para pronosticar la oferta y la demanda de un producto es otro que también considera la opinión y los datos internos de la empresa. Pero esta vez de parte de sus directivos y ejecutivos, y suele hacerse a través de cuestionarios que incluyen:
           ul.lista-ul.mt-3
             li
               i.fas.fa-check(style="color:#00BCD4;")
@@ -208,8 +202,7 @@
               | Intuiciones o corazonadas. 
           p.mt-3 Pues en lo que justamente se basan, es en la experiencia de este tipo de personal, ya que, por lo regular, resulta bastante esclarecedor e indicativo.
         .tarjeta.color-acento-botones.bg-white.p-3(x="25%" y="93%" numero="" style="background-color:#F6F9FF;box-shadow:0px 0px 20px rgba(0,0,0,0.15);")
-          h5.mb-0(style="color:inherit;") Método 7: Técnica Delphi 
-          p.mt-3 Se basa en la opinión de expertos, pero confrontándola mediante una retroalimentación controlada, la cual a grandes rasgos consiste en seis (6) pasos:
+          p Se basa en la opinión de expertos, pero confrontándola mediante una retroalimentación controlada, la cual a grandes rasgos consiste en seis (6) pasos:
           ul.lista-ul.mt-3
             li
               i.fas.fa-check(style="color:#00BCD4;")
@@ -317,7 +310,7 @@
       .row.col-xl-11.m-auto(titulo="I. Oferta en exceso")
         p Este fenómeno conocido como exceso de oferta, es un proceso en el que se los productos con precios por encima del precio de equilibrio y pasa por lo general cuando la cantidad de producto ofrecida es mayor a la que el mercado requiere o demandada, los empresarios por lo general intentan controlar este fenómeno bajando los precios a los que están sus productos para así aumentar ventas.
       .row.col-xl-11.m-auto(titulo="II. Demanda en exceso")
-        p Por otro lado, se tiene el exceso de la demanda y se conoce como la escasez de productos, significa que el precio del bien ofrecido está por debajo del precio de equilibrio, la cantidad requerida es mayor que la cantidad ofertada de este modo se tiene que los productos tienden a aumentar los precios hasta un punto que equilibre el mercado. El ejemplo más común de esto es cuando los tapabocas escasearon en el momento del inicio de la pandemia del 2020, llegando a precios altos por la escases y la necesidad por parte de las personas de estos artículos.
+        p Por otro lado, se tiene el exceso de la demanda y se conoce como la escasez de productos, significa que el precio del bien ofrecido está por debajo del precio de equilibrio, la cantidad requerida es mayor que la cantidad ofertada, de este modo se tiene que los productos tienden a aumentar los precios hasta un punto que equilibre el mercado. El ejemplo más común de esto es cuando los tapabocas escasearon en el momento del inicio de la pandemia del 2020, llegando a precios altos por la escases y la necesidad por parte de las personas de estos artículos.
 
 
 
