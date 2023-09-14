@@ -7,7 +7,7 @@
     .row.justify-content-center
       .col-lg-10.mb-5
         figure
-          img(src="@/assets/curso/sintesis.svg", alt="alt")
+          img(src="@/assets/curso/sintesis.svg", alt="Muestra síntesis del componente de formación  en la identificación de los componentes del mercado y las necesidades del cliente donde da aconocer ñas variables del marketing, ciclo del vida del producto, oferta y demanda permitiendo conocer las necesidades de los clientes dentro de sus niveles y las formas de pronosticar la proyección de la oferta y la demanda.")
       .col-auto
         a.anexo.mb-5(:href="obtenerLink('/downloads/sintesis.pdf')" target="_blank")
           .anexo__icono

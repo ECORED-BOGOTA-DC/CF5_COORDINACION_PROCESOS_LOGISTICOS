@@ -46,7 +46,7 @@
       ImagenInfograficaB.color-primario
         template(v-slot:imagen)
           figure
-            img(src='@/assets/curso/tema2/1.svg' data-aos="zoom-in-up")
+            img(src='@/assets/curso/tema2/1.svg' data-aos="zoom-in-up" alt="Muestra gráfico dodne identifica ls medidas de tendencia central y de dispersión las cuales se describen en la parte inferior.")
         div(x="11.5%" y="70%" tooltip="Medidas de dispersión" numero="+")
           p(style="color:#12263F !important;") Esto le dará una idea de cómo escaparon los datos dentro del rango medido en términos de media y distribución. Hay tres formas de medir la varianza de una variable cuantitativa: la desviación estándar o desviación típica, los rangos intercuartílicos y los valores mínimo y máximo. 
         div(x="30.5%" y="25%" tooltip="Medidas de posición " numero="+")
@@ -105,7 +105,7 @@
         h5 Figura 2
         span Ciclo del pronóstico
       figure.mt-4
-        img(src="@/assets/curso/tema2/2.svg" data-aos="zoom-in-up")
+        img(src="@/assets/curso/tema2/2.svg" data-aos="zoom-in-up" alt="Imagen muestra ciclo y se describen en la parte inferior de la imagen.")
     
     p.mt-5(data-aos="zoom-in") Se ha identificado una serie de beneficios clave para la medición de la exactitud del pronóstico y estos son:
 
@@ -134,14 +134,14 @@
             p.mt-5 La calidad del servicio es uno de los factores más importantes de una organización, esta trabaja en función de la satisfacción del cliente, los clientes pueden decidir quedarse con la empresa, fidelizarse por un periodo de tiempo o cambiar a un lugar que brinde una mejor calidad de servicio.
           .col-md-6.col-lg-7
             figure
-              img(src='@/assets/curso/tema2/3.png')
+              img(src='@/assets/curso/tema2/3.png' alt="Imagen decorativa")
         .row
           .col-md-6.col-lg-5.mb-4.mb-md-0
             h5 Adopción de los datos
             p.mt-5 El mercado actual es un mercado global, competitivo y llenos de datos de información válida para cada empresa, estos datos requieren de un gran trato y métodos organizativos que le permitan estar adaptada al nivel de la competencia y no sucumbir ante los rápidos cambios de la tecnología o en procesos más eficientes. En esa realidad, las empresas deben ir más allá de los puntos clave para obtener una ventaja sobre sus segmentos de mercado.
           .col-md-6.col-lg-7
             figure
-              img(src='@/assets/curso/tema2/4.png')
+              img(src='@/assets/curso/tema2/4.png' alt="Imagen decorativa")
     
     p.mt-5(data-aos="zoom-in") Con estos desafíos en mente han surgido #[em benchmarks] para detectar y aplicar los mejores procesos con los más altos estándares de calidad y mayor productividad, basados en la experiencia de empresas líderes en el mercado. En una empresa pequeña o en crecimiento esta debería ser su herramienta principal, a continuación, se define los conceptos básicos e importancia del #[em Benchmarking]:
 
@@ -150,14 +150,14 @@
         .row.col-xl-11.m-auto
           .col-md-6.mb-4.col-lg-5.mb-md-0
             figure
-              img(src='@/assets/curso/tema2/5.svg')
+              img(src='@/assets/curso/tema2/5.svg' alt="Imagen decorativa")
           .col-md-6.col-lg-7
             p El #[em Benchmarking] es el proceso de evaluación de productos, servicios y procesos entre las empresas que busca analizar cómo funcionan las cosas exitosas y de cambio para igualarlas o mejorarlas. La aplicación de esta técnica permite a las organizaciones alcanzar mayor calidad en sus productos, servicios y procesos, a partir de la cooperación, colaboración y el intercambio de información.
       .py-3.py-md-4(titulo="Objetivo general")
         .row.col-xl-11.m-auto
           .col-md-6.mb-4.col-lg-5.mb-md-0
             figure
-              img(src='@/assets/curso/tema2/6.png')
+              img(src='@/assets/curso/tema2/6.png' alt="Imagen decorativa")
           .col-md-6.col-lg-7
             p Su objetivo es corregir errores e identificar oportunidades, para aprender a solucionar problemas y tomar decisiones según los patrones de los líderes; por lo tanto, la calidad en el servicio es una de sus aplicaciones. 
             p.mt-4 Esta clase de estudios se realiza en contacto directo con los competidores o no competidores y, al finalizar, se comparten los resultados para que cada organización cree su propio sistema de mejoras.
@@ -165,7 +165,7 @@
         .row.col-xl-11.m-auto
           .col-md-6.mb-4.col-lg-5.mb-md-0
             figure
-              img(src='@/assets/curso/tema2/7.png')
+              img(src='@/assets/curso/tema2/7.png' alt="Imagen decorativa")
           .col-md-6.col-lg-7
             p Los objetivos específicos, evidentemente, dependen de qué tipo de proyecto se está elaborando y en qué sector. Pero en la mayoría, coinciden con los que a continuación se exponen:
             ol.lista-ol.fa-ul.mt-3
@@ -188,7 +188,7 @@
         .row.col-xl-11.m-auto
           .col-md-6.mb-4.col-lg-5.mb-md-0
             figure
-              img(src='@/assets/curso/tema2/8.svg')
+              img(src='@/assets/curso/tema2/8.svg' alt="Imagen decorativa")
           .col-md-6.col-lg-7
             p El #[em Benchmarking] nace con la necesidad de definir objetivos que sean razonables y alcanzables, para ello es necesario que se centren en el entorno externo de la empresa, dejando a un lado el entorno interno y las tendencias pasadas de la compañía.
             p.mt-4 El beneficio que podemos obtener del #[em Benchmarking] es la ayuda que nos proporciona para poder ampliar las expectativas y la confianza de nuestros clientes. Para poder llegar hasta ese punto, las empresas competitivas deben estar continuamente cambiando y adaptándose al mercado. Por ello es necesario motivar al personal para que confíen en una organización, y por lo tanto, conseguir los nuevos objetivos trazados.
@@ -197,7 +197,7 @@
 
     .col-xl-10.m-auto.mt-5
       figure
-        img(src="@/assets/curso/tema2/9.svg" data-aos="zoom-in-up" alt="Determinar funciones por evaluar <br> Identificar variables de desempeño y recolectar datos <br> Seleccionar a las mejores empresas de la clase <br> Medir el desempeño mejor de su clase <br> Hacer comparaciones <br> Especificar programas y acciones para alcanzar y superar las mejores prácticas <br> Determinar funciones por evaluar <br> Implementar y monitorear <br> Recalibrar <br> Medir desempeño propio")
+        img(src="@/assets/curso/tema2/9.svg" data-aos="zoom-in-up" alt="Muestra diagrama con proceso de benchmarking que se describe abajo la imagen.")
     
     Separador.mt-5
 

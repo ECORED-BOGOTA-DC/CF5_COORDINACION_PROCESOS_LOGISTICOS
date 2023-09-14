@@ -75,19 +75,19 @@
           p Cuentan con mercados establecidos y bien desarrollados con múltiples puntos de compra y venta. En otras palabras, es sencillo encontrar tanto compradores como vendedores, y existen precios estándar para los productos, por lo general a disposición del público.
         .col-md-6.col-lg-5
           figure
-            img(src='@/assets/curso/tema1/3.svg')
+            img(src='@/assets/curso/tema1/3.svg' alt="Imagen decorativa")
       .row.col-xl-11.m-auto(titulo="Segunda")
         .col-md-6.mb-4.mb-md-0.col-lg-7
           p Su calidad no sufre un deterioro rápido después de la cosecha o producción; así, un producto que no se vende hoy puede venderse mañana, sin que su calidad se vea afectada. Debido a esto, su almacenamiento es relativamente sencillo y los precios normalmente cambian lentamente de mes a mes.
         .col-md-6.col-lg-5
           figure
-            img(src='@/assets/curso/tema1/4.svg')
+            img(src='@/assets/curso/tema1/4.svg' alt="Imagen decorativa")
       .row.col-xl-11.m-auto(titulo="Tercera")
         .col-md-6.mb-4.mb-md-0.col-lg-7
           p Las variaciones de precio al interior de un mercado en particular, reflejan características ampliamente apreciadas del producto (tamaño, color, variedad, calidad, etc.) y no hace distinción acerca del origen del producto. En ocasiones, se establecen parámetros de calidad específicos y a veces legales, que permiten comprender a calidad y otras características afectan los precios, por ejemplo, no más del 5% de los granos rotos.
         .col-md-6.col-lg-5
           figure
-            img(src='@/assets/curso/tema1/2.svg')
+            img(src='@/assets/curso/tema1/2.svg' alt="Imagen decorativa")
     
     h4.mt-5(data-aos="fade-right" style="color:#1A0F91;") Productos innovadores o especializados
 
@@ -152,7 +152,7 @@
       ImagenInfografica.infografia1.color-acento-contenido
         template(v-slot:imagen)
           figure
-            img(src='@/assets/curso/tema1/6.svg')
+            img(src='@/assets/curso/tema1/6.svg' alt="Muestra portada grafica interactiva con 7 puntos, cada uno identifica los métodos mas comunes en la proyeccion de oferta y demanda segun SERTA Marketing Intelligence Partner y se describe debajo de la imagen.")
         .tarjeta.color-acento-botones.bg-white.p-3(x="25.5%" y="16%" numero="" style="background-color:#F6F9FF;box-shadow:0px 0px 20px rgba(0,0,0,0.15);")
           p El primero de los métodos para pronosticar la oferta y la demanda de un producto es aquel que se basa en el análisis de datos históricos que sirvan para predecir el futuro del mismo, incluyendo:
           ul.lista-ul.mt-3
@@ -237,7 +237,7 @@
     .cont_1_1.mt-5.pt-5.pb-5
       .col-xl-10.m-auto
         figure
-          img(src="@/assets/curso/tema1/7.svg" data-aos="zoom-in-up")
+          img(src="@/assets/curso/tema1/7.svg" data-aos="zoom-in-up" alt="Muestra gráfico de los métodos de datos históricos en series de tiempo o modelos que se pueden trabajar para determinar la proyección de la demanda y se describen abajo de la infografía.")
     
     Separador.mt-5
 
@@ -302,7 +302,7 @@
 
     .col-xl-4.m-auto.col-lg-6.mt-5
       figure
-        img(src="@/assets/curso/tema1/8.svg" data-aos="zoom-in-up")
+        img(src="@/assets/curso/tema1/8.svg" data-aos="zoom-in-up" alt="Muestra grafico de oferta y demanda donde eje de las equis es cantidad y eje y es precio.")
     
     p.mt-5(data-aos="zoom-in") Con la revisión de estos conceptos los empresarios entienden que controlar estas variables es la teoría del trabajo proyectual y nace la pregunta que abre un gran debate: ¿Es posible alcanzar el punto de equilibrio? Y la respuesta es sí, ese es el sueño de cada empresa y en el mejor de los casos sacar ventaja de este punto de equilibrio con relación al tiempo; pero se debe hablar de dos elementos que se presentan al mismo tiempo y  que requieren tener relación, estos elementos son:
 
