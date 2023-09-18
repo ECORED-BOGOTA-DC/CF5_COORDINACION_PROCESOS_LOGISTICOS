@@ -4,11 +4,11 @@
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
     
     .row.mb-5.justify-content-center.align-items-center.align-items-lg-stretch
-      .col-6.col-md-4.col-lg-3.mb-4.mb-md-0
+      .col-6.col-md-4.col-lg-3.mb-4.mb-md-0(data-aos="fade-right")
         .tarjeta.h-100.d-flex.align-items-center.p-4
           figure
             img(src="@/assets/template/falso-verdadero.svg" alt="Imagen decorativa")
-      .col-12.col-md-8.col-lg-9
+      .col-12.col-md-8.col-lg-9(data-aos="fade-left")
         .titulo-segundo
           h2 Estimación de la demanda
         p.mb-4 Conocer los requerimientos según comportamiento de la demanda para pronosticar el mercado

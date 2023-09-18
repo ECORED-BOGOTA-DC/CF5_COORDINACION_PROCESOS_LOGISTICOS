@@ -10,7 +10,7 @@
 
     p(data-aos="zoom-in") El presente componente formativo se enfoca en la presentación de las ventas y las compras, todo en el marco del mercado de clientes potenciales reales, se da la bienvenida a este contenido que pone en relación a  los aprendices con el avance del desarrollo académico en logística:
 
-    figure.mt-5
+    figure.mt-5(data-aos="zoom-in")
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 

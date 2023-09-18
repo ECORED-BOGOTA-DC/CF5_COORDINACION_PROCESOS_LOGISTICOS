@@ -7,15 +7,15 @@
         span 2
       h1 Interpretación de pronósticos
     
-    p(data-aos="zoom-in") La previsión se realiza siguiendo un orden de moda, casi todas las empresas necesitan estos elementos en la producción de cualquier material o incluso cambios en los precios de los productos, elementos que son necesarios cada vez desde la etapa económica hasta la de producción. Así como inteligencia, estos elementos necesitan estimar lo que sucederá en el futuro para ganar o perder la menor cantidad posible de cosas relacionadas con productos, tiempo y dinero; la comunidad empresarial suele decir que las buenas predicciones pueden eliminar la incertidumbre y sentar las bases de la empresa logrando grandes avances, sobre todo porque ayudan a los gerentes a tomar decisiones críticas.
-    p.mt-4(data-aos="zoom-in") El gerente de la empresa maneja implícita o explícitamente los pronósticos en función de estimaciones aleatorias. Estas estimaciones son inexactas, pero pueden ser capacitadas. Esto es lo que hacen los modelos desarrollados para estos fines. Se puede entender a partir de la gestión de datos que en la mayoría de los procesos cuantitativos el estudio de los números aporta elementos que explican lo que va a suceder. Si los datos son fiables se pueden desarrollar modelos cercanos a la realidad. Los más comunes son:
+    p(data-aos="fade-right") La previsión se realiza siguiendo un orden de moda, casi todas las empresas necesitan estos elementos en la producción de cualquier material o incluso cambios en los precios de los productos, elementos que son necesarios cada vez desde la etapa económica hasta la de producción. Así como inteligencia, estos elementos necesitan estimar lo que sucederá en el futuro para ganar o perder la menor cantidad posible de cosas relacionadas con productos, tiempo y dinero; la comunidad empresarial suele decir que las buenas predicciones pueden eliminar la incertidumbre y sentar las bases de la empresa logrando grandes avances, sobre todo porque ayudan a los gerentes a tomar decisiones críticas.
+    p.mt-4(data-aos="fade-right") El gerente de la empresa maneja implícita o explícitamente los pronósticos en función de estimaciones aleatorias. Estas estimaciones son inexactas, pero pueden ser capacitadas. Esto es lo que hacen los modelos desarrollados para estos fines. Se puede entender a partir de la gestión de datos que en la mayoría de los procesos cuantitativos el estudio de los números aporta elementos que explican lo que va a suceder. Si los datos son fiables se pueden desarrollar modelos cercanos a la realidad. Los más comunes son:
 
-    Separador.mt-5
+    separador
 
-    .titulo-segundo
+    .titulo-segundo(data-aos="fade-right")
       h2#t_2_1 2.1 Estadística descriptiva
     
-    p(data-aos="zoom-in") La estadística descriptiva es un campo de la ciencia estadística que se utiliza para resumir de forma clara y precisa los datos estadísticos de la encuesta utilizando ayudas gráficas como tablas, tablas y diagramas. Antes de realizar un análisis descriptivo, es recomendable volver a todos los propósitos del estudio e identificar los datos de la escala, junto con otras variables registradas en el trabajo. Hay dos tipos de variables de datos, las cuales son necesarias para las operaciones logísticas:
+    p(data-aos="fade-right") La estadística descriptiva es un campo de la ciencia estadística que se utiliza para resumir de forma clara y precisa los datos estadísticos de la encuesta utilizando ayudas gráficas como tablas, tablas y diagramas. Antes de realizar un análisis descriptivo, es recomendable volver a todos los propósitos del estudio e identificar los datos de la escala, junto con otras variables registradas en el trabajo. Hay dos tipos de variables de datos, las cuales son necesarias para las operaciones logísticas:
 
     AcordionA.acordion2.mt-5(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")
       .row.col-xl-11.m-auto(titulo="Variable cualitativa")
@@ -25,25 +25,25 @@
     
     h4.mt-5(data-aos="fade-right" style="color:#1A0F91;") Medidas de tendencia central y de dispersión
 
-    p.mt-4(data-aos="zoom-in") Designado para proporcionar información sobre conjunto de datos:
+    p.mt-4(data-aos="fade-right") Designado para proporcionar información sobre conjunto de datos:
 
     ul.fa-ul.mt-4
-      li.mb-2(data-aos="zoom-in-right")
+      li.mb-2(data-aos="fade-right")
         i.fas.fa-li.fa-circle(style="color:#FE7062;")
         | #[strong Promedio o media (aritmética):] calculada como la suma de todos los valores individuales entre la suma de los valores. Indique el punto de equilibrio de la distribución de datos.
-      li.mb-2(data-aos="zoom-in-right")
+      li.mb-2(data-aos="fade-right")
         i.fas.fa-li.fa-circle(style="color:#FE7062;")
         | #[strong Mediana:] representa la mitad. La muestra representa un número o valor dividido en dos mitades, es decir, la población es menor o mayor que ella.
-      li.mb-2(data-aos="zoom-in-right")
+      li.mb-2(data-aos="fade-right")
         i.fas.fa-li.fa-circle(style="color:#FE7062;")
         | #[strong Moda:] el valor observado con mayor frecuencia en la medida.
     
-    p.mt-5(data-aos="zoom-in") Las medidas y los datos son de varios tipos y la generalidad de la información igual, por eso se hace necesario presentar los datos de diferentes formas y entender que para su recepción también pueden venir tratados así. En el siguiente gráfico puede entender un poco más al respecto:
+    p.mt-5(data-aos="fade-right") Las medidas y los datos son de varios tipos y la generalidad de la información igual, por eso se hace necesario presentar los datos de diferentes formas y entender que para su recepción también pueden venir tratados así. En el siguiente gráfico puede entender un poco más al respecto:
 
     h4.mt-5.text-center(data-aos="zoom-in") Tipos de datos en medidas de tendencia central y de dispersión
 
     .col-xl-10.m-auto.mt-5
-      ImagenInfograficaB.color-primario
+      ImagenInfograficaB.color-primario(data-aos="zoom-in")
         template(v-slot:imagen)
           figure
             img(src='@/assets/curso/tema2/1.svg' data-aos="zoom-in-up" alt="Muestra gráfico dodne identifica ls medidas de tendencia central y de dispersión las cuales se describen en la parte inferior.")
@@ -91,25 +91,25 @@
               i.fas.fa-check.fa-li(style="color:#00BCD4;")
               | Infografía.
     
-    Separador.mt-5
+    separador
 
-    .titulo-segundo
+    .titulo-segundo(data-aos="fade-right")
       h2#t_2_2 2.2 Planeación de pronósticos según políticas de la organización
     
-    p(data-aos="zoom-in") La planeación es un proceso que toda empresa debe utilizar, ya que es el punto de partida para nuevos proyectos en diversas áreas como la fabricación y las ventas. Esto le permite identificar mejores estrategias para lograr objetivos como aumentar la demanda y optimizar el uso de recursos. 
-    p.mt-4(data-aos="zoom-in") Como todas las predicciones, existen límites para el error inevitable. Sin embargo, algunas técnicas pueden dar resultados precisos. Esto ayudará a la preparación para futuros desafíos y oportunidades.
+    p(data-aos="fade-right") La planeación es un proceso que toda empresa debe utilizar, ya que es el punto de partida para nuevos proyectos en diversas áreas como la fabricación y las ventas. Esto le permite identificar mejores estrategias para lograr objetivos como aumentar la demanda y optimizar el uso de recursos. 
+    p.mt-4(data-aos="fade-right") Como todas las predicciones, existen límites para el error inevitable. Sin embargo, algunas técnicas pueden dar resultados precisos. Esto ayudará a la preparación para futuros desafíos y oportunidades.
 
 
     .col-xl-8.col-lg-10.m-auto.mt-5
-      .titulo-sexto.color-acento-contenido
+      .titulo-sexto.color-acento-contenido(data-aos="fade-right")
         h5 Figura 2
         span Ciclo del pronóstico
       figure.mt-4
-        img(src="@/assets/curso/tema2/2.svg" data-aos="zoom-in-up" alt="Imagen muestra ciclo y se describen en la parte inferior de la imagen.")
+        img(src="@/assets/curso/tema2/2.svg" data-aos="zoom-in" alt="Imagen muestra ciclo y se describen en la parte inferior de la imagen.")
     
-    p.mt-5(data-aos="zoom-in") Se ha identificado una serie de beneficios clave para la medición de la exactitud del pronóstico y estos son:
+    p.mt-5(data-aos="fade-right") Se ha identificado una serie de beneficios clave para la medición de la exactitud del pronóstico y estos son:
 
-    AcordionA.acordionb1.mt-5(tipo="b" clase-tarjeta="tarjeta tarjeta--gris")
+    AcordionA.acordionb1.mt-5(tipo="b" clase-tarjeta="tarjeta tarjeta--gris" data-aos="fade-right")
       .row(titulo="Beneficios del servicio") 
         p Además del impacto obvio en el servicio al cliente, un proceso formal de planificación de la demanda ayuda a las empresas a responder rápidamente a los eventos del mercado.
       .row(titulo="Beneficios económicos") 
@@ -119,14 +119,14 @@
       .row(titulo="Beneficios organizacionales") 
         p Mayor responsabilidad, mayores capacidades de control de procesos, menor ambigüedad, mejor colaboración interna, etc. 
     
-    Separador.mt-5
+    separador
 
-    .titulo-segundo
-      h2#t_2_3 2.3  Evaluar el comportamiento de la empresa frente al mercado – #[em benchmarking]
+    .titulo-segundo(data-aos="fade-right")
+      h2#t_2_3 2.3  Evaluar el comportamiento de la empresa frente al mercado - #[em benchmarking]
     
-    p(data-aos="zoom-in") El mercado es el mismo para varias empresas, cada empresa que comparte nicho puede aportar a las otras de su nicho a pesar de ser considerada como competencia, esto evidencia que en realidad no hay competencias, son empresas con diferentes niveles de servicio que comparten un grupo de clientes potenciales y eso sirve para mucho como se puede ver en el siguiente recurso:
+    p(data-aos="fade-right") El mercado es el mismo para varias empresas, cada empresa que comparte nicho puede aportar a las otras de su nicho a pesar de ser considerada como competencia, esto evidencia que en realidad no hay competencias, son empresas con diferentes niveles de servicio que comparten un grupo de clientes potenciales y eso sirve para mucho como se puede ver en el siguiente recurso:
 
-    .tarjeta.tarjeta--azul.p-4.p-md-5.mt-5
+    .tarjeta.tarjeta--azul.p-4.p-md-5.mt-5(data-aos="zoom-in")
       SlyderA(tipo="b")
         .row
           .col-md-6.col-lg-5.mb-4.mb-md-0
@@ -143,9 +143,9 @@
             figure
               img(src='@/assets/curso/tema2/4.png' alt="Imagen decorativa")
     
-    p.mt-5(data-aos="zoom-in") Con estos desafíos en mente han surgido #[em benchmarks] para detectar y aplicar los mejores procesos con los más altos estándares de calidad y mayor productividad, basados en la experiencia de empresas líderes en el mercado. En una empresa pequeña o en crecimiento esta debería ser su herramienta principal, a continuación, se define los conceptos básicos e importancia del #[em Benchmarking]:
+    p.mt-5(data-aos="fade-right") Con estos desafíos en mente han surgido #[em benchmarks] para detectar y aplicar los mejores procesos con los más altos estándares de calidad y mayor productividad, basados en la experiencia de empresas líderes en el mercado. En una empresa pequeña o en crecimiento esta debería ser su herramienta principal, a continuación, se define los conceptos básicos e importancia del #[em Benchmarking]:
 
-    TabsC.color-acento-contenido.mt-5
+    TabsC.color-acento-contenido.mt-5(data-aos="zoom-in")
       .py-3.py-md-4(titulo="<em>Benchmarking</em>")
         .row.col-xl-11.m-auto
           .col-md-6.mb-4.col-lg-5.mb-md-0
@@ -193,22 +193,22 @@
             p El #[em Benchmarking] nace con la necesidad de definir objetivos que sean razonables y alcanzables, para ello es necesario que se centren en el entorno externo de la empresa, dejando a un lado el entorno interno y las tendencias pasadas de la compañía.
             p.mt-4 El beneficio que podemos obtener del #[em Benchmarking] es la ayuda que nos proporciona para poder ampliar las expectativas y la confianza de nuestros clientes. Para poder llegar hasta ese punto, las empresas competitivas deben estar continuamente cambiando y adaptándose al mercado. Por ello es necesario motivar al personal para que confíen en una organización, y por lo tanto, conseguir los nuevos objetivos trazados.
     
-    p.mt-5(data-aos="zoom-in") Elaborar el proceso del benchmarking no es complicado, pero si tiene un orden, revisar todo lo que hacen las otras empresas puede tomar mucho tiempo y por eso es necesario ordenarlo en busca de resultados más objetivos. Se recomienda el siguiente proceso a la hora de elaborar el benchmarking:
+    p.mt-5(data-aos="fade-right") Elaborar el proceso del benchmarking no es complicado, pero si tiene un orden, revisar todo lo que hacen las otras empresas puede tomar mucho tiempo y por eso es necesario ordenarlo en busca de resultados más objetivos. Se recomienda el siguiente proceso a la hora de elaborar el benchmarking:
 
     .col-xl-10.m-auto.mt-5
-      figure
+      figure(data-aos="zoom-in")
         img(src="@/assets/curso/tema2/9.svg" data-aos="zoom-in-up" alt="Muestra diagrama con proceso de benchmarking que se describe abajo la imagen.")
     
-    Separador.mt-5
+    separador
 
-    .titulo-segundo
-      h2#t_2_4 2.4  Planeación, pronóstico y reabastecimiento colaborativo – CPFR
+    .titulo-segundo(data-aos="fade-right")
+      h2#t_2_4 2.4  Planeación, pronóstico y reabastecimiento colaborativo - CPFR
     
-    p(data-aos="zoom-in") Esta es la definición que comparte la Revista Zona Logística (2018) al respecto “el proceso #[em Collaborative Planning Forecasting and Replenishment] (CPFR) por sus siglas en inglés, (Planeamiento Participativo, Pronóstico y Reabastecimiento), es un proceso de planificación de ventas y reabastecimiento para varios actores en la cadena de suministro para obtener una imagen más precisa de la empresa en su conjunto para identificar áreas de oportunidad” y su propósito es construir una asociación en el marco de una filosofía de "ganar/ganar" “#[em win/win]” entre proveedores y clientes a través de la planificación comercial conjunta y el intercambio de información así se puede reducir los costos de inventario mientras aumenta la rentabilidad del producto en toda la cadena. Se puede decir entonces que se ahorra dinero y se acelera el servicio para los usuarios finales.
-    p.mt-4(data-aos="zoom-in") La planificación de ventas integrada le permite realizar un seguimiento de las operaciones de manera más eficiente y reducir las desviaciones de los pronósticos al proporcionar un mayor control sobre los problemas de inventario al visualizar optimización de la demanda real en todo su suministro, para mejorar la atención en el punto de venta físico o digital.
-    p.mt-4(data-aos="zoom-in") El CPFR presenta una serie de fundamentos que rigen y benefician el enfoque de la estrategia:
+    p(data-aos="fade-right") Esta es la definición que comparte la Revista Zona Logística (2018) al respecto “el proceso #[em Collaborative Planning Forecasting and Replenishment] (CPFR) por sus siglas en inglés, (Planeamiento Participativo, Pronóstico y Reabastecimiento), es un proceso de planificación de ventas y reabastecimiento para varios actores en la cadena de suministro para obtener una imagen más precisa de la empresa en su conjunto para identificar áreas de oportunidad” y su propósito es construir una asociación en el marco de una filosofía de "ganar/ganar" “#[em win/win]” entre proveedores y clientes a través de la planificación comercial conjunta y el intercambio de información así se puede reducir los costos de inventario mientras aumenta la rentabilidad del producto en toda la cadena. Se puede decir entonces que se ahorra dinero y se acelera el servicio para los usuarios finales.
+    p.mt-4(data-aos="fade-right") La planificación de ventas integrada le permite realizar un seguimiento de las operaciones de manera más eficiente y reducir las desviaciones de los pronósticos al proporcionar un mayor control sobre los problemas de inventario al visualizar optimización de la demanda real en todo su suministro, para mejorar la atención en el punto de venta físico o digital.
+    p.mt-4(data-aos="fade-right") El CPFR presenta una serie de fundamentos que rigen y benefician el enfoque de la estrategia:
 
-    TabsA.color-acento-botones.mt-5
+    TabsA.color-acento-botones.mt-5(data-aos="zoom-in")
       .tarjeta.color-acento-botones--borde.p-4(titulo="Relaciones con los aliados")
         ul.fa-ul
           li.mb-2(style="color:#12263F !important;")
@@ -294,15 +294,15 @@
             i.fas.fa-check.fa-li(style="color:#00BCD4;")
             | Costos de inversión e implementación.
     
-    Separador.mt-5
+    separador
 
-    .titulo-segundo
+    .titulo-segundo(data-aos="fade-right")
       h2#t_2_5 2.5  Herramientas para la proyección de pronósticos de oferta y demanda
     
-    p(data-aos="zoom-in") Las predicciones de la oferta y demanda futura del mercado, conseguida de los pronósticos de ventas o del mercado potencial, puede basarse en métodos que abarcan desde conjeturas infundadas hasta complejos modelos estadísticos. 
-    p.mt-4(data-aos="zoom-in") A continuación, se describen algunos métodos que se emplean comúnmente en la predicción de la oferta y la demanda:
+    p(data-aos="fade-right") Las predicciones de la oferta y demanda futura del mercado, conseguida de los pronósticos de ventas o del mercado potencial, puede basarse en métodos que abarcan desde conjeturas infundadas hasta complejos modelos estadísticos. 
+    p.mt-4(data-aos="fade-right") A continuación, se describen algunos métodos que se emplean comúnmente en la predicción de la oferta y la demanda:
 
-    AcordionA.acordion2.mt-5(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")
+    AcordionA.acordion2.mt-5(tipo="a" clase-tarjeta="tarjeta tarjeta--azul" data-aos="zoom-in")
       .row.col-xl-11.m-auto(titulo="Análisis de los factores del mercado")
         p Generalmente, la demanda futura de un producto está relacionada con el comportamiento de ciertos factores de mercado. Si es así, puede predecir las ventas futuras estudiando ese comportamiento. Básicamente, el análisis de los impulsores del mercado se trata de determinar cuáles son esos impulsores y medir su relación con el desempeño de las ventas. 
         p.mt-2 Para utilizar este tipo de análisis correctamente, necesita: 
@@ -347,29 +347,6 @@
       .row.col-xl-11.m-auto(titulo="Juicio de los ejecutivos")
         p Incluye la obtención de comentarios de una o más direcciones con respecto a las ventas futuras. Uno de estos métodos, llamado Delphi, fue iniciado por un grupo de entusiastas que evaluaban de forma anónima las ventas futuras. Adivina cómo reaccionan los demás miembros de cada grupo sin saber cómo. Las siguientes estimaciones se resumen y los promedios se comparten con los participantes junto con un conjunto de predicciones.
         p.mt-2 La ventaja de este enfoque es que evita que una persona influya en otra, pero la desventaja es que el participante puede no tener la información necesaria para basar la evaluación. 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-      
-
-
-
-
-    
-   
-
-
 
 
 </template>

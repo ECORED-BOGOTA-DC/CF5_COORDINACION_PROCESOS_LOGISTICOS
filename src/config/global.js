@@ -109,13 +109,13 @@ export default {
           {
             numero: '2.3',
             titulo:
-              'Evaluar el comportamiento de la empresa frente al mercado – <em>Benchmarking</em>',
+              'Evaluar el comportamiento de la empresa frente al mercado - <em>Benchmarking</em>',
             hash: 't_2_3',
           },
           {
             numero: '2.4',
             titulo:
-              'Planeación, pronóstico y reabastecimiento colaborativo – CPFR',
+              'Planeación, pronóstico y reabastecimiento colaborativo - CPFR',
             hash: 't_2_4',
           },
           {
@@ -158,7 +158,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/prueba.pdf',
+        download: 'downloads/121513_CF05_DU.pdf',
       },
       {
         icono: 'fas fa-download',
@@ -297,12 +297,12 @@ export default {
           nombre: 'Luis Fernando Botero Mendoza',
           cargo: 'Diseñador Instruccional',
           centro:
-            'Regional Distrito Capital – Centro para la Industria de la Comunicación Gráfica',
+            'Regional Distrito Capital - Centro para la Industria de la Comunicación Gráfica',
         },
         {
           nombre: 'Andrés Felipe Velandia Espitia',
           cargo: 'Revisor Metodológico y Pedagógico',
-          centro: 'Regional Distrito Capital – Centro de Diseño y Metrología',
+          centro: 'Regional Distrito Capital - Centro de Diseño y Metrología',
         },
         {
           nombre: 'Rafael Neftalí Lizcano Reyes',
