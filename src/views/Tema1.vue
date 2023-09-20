@@ -43,7 +43,6 @@
     p.mt-5(data-aos="fade-right") Todo esto ayudará a conocer el mercado objetivo, su comportamiento con los cambios y lanzamientos que se hagan.
 
     separador
-
     .titulo-segundo(data-aos="fade-right")
       h2#t_1_1 1.1 Estimación de la demanda
     
@@ -65,7 +64,7 @@
     p.mt-5(data-aos="fade-right") Los métodos de estimación son variados y sus características acercan a las empresas a relatarlos como medios de trabajo para estimar lo que el mercado requiere, la estimación se hace constantemente, no es viable hacer una sola estimación y creer que el mercado es estático porque no es así, el mercado es dinámico como se ha podido revisar en varios momentos de su formación. 
     p.mt-4(data-aos="fade-right") Las tareas necesarias para evaluar la demanda del mercado varían, dependiendo del tipo de producto o servicio analizados. Se pueden identificar cuatro categorías generales de bienes y servicios, cada una presenta sus propias características y requiere un enfoque distinto para evaluar la demanda. Estas categorías son:
 
-    h4.mt-5(data-aos="fade-right" style="color:#1A0F91;") Productos básicos no perceptibles
+    h4.mt-5(data-aos="fade-right" style="color:#1A0F91;") <i class="fas fa-globe fa-spin" style="color: #57DBD8; padding-left: 5px"></i>Productos básicos no perceptibles
 
     p.mt-4(data-aos="fade-right") Esta es la categoría más simple de los productos en términos de evaluación. Las características principales de los productos básicos no perecibles son tres (3) y se muestran en el siguiente recurso:
 
@@ -89,7 +88,7 @@
           figure
             img(src='@/assets/curso/tema1/2.svg' alt="Imagen decorativa")
     
-    h4.mt-5(data-aos="fade-right" style="color:#1A0F91;") Productos innovadores o especializados
+    h4.mt-5(data-aos="fade-right" style="color:#1A0F91;") <i class="fas fa-globe fa-spin" style="color: #57DBD8; padding-left: 5px"></i>Productos innovadores o especializados
 
     p.mt-4(data-aos="fade-right") Los productos innovadores (por definición) no cuentan con un precio de mercado existente, pues son nuevos, pero se pueden determinar precios posibles basándose en los precios de los productos de la competencia, o basándose en la relación de precios del mercado en donde el producto no existe.
 
@@ -101,12 +100,11 @@
         .bloque-texto-g__texto.p-4(data-aos="fade-right")
           p.mb-0 Los productos especializados pueden incluir productos con ventas limitadas (en donde no hay muchos competidores debido al tamaño reducido del mercado) o pueden ser productos que cuenten con mercados bastante sustanciales. En este caso, a diferencia de los productos básicos, los compradores se fijan en las diferencias en el sabor, calidad y durabilidad que existe entre los productos que están en competencia.
     
-    h4.mt-5(data-aos="fade-right" style="color:#1A0F91;") Servicios
+    h4.mt-5(data-aos="fade-right" style="color:#1A0F91;") <i class="fas fa-globe fa-spin" style="color: #57DBD8; padding-left: 5px"></i>Servicios
 
     p.mt-4(data-aos="fade-right") El estudio de la demanda y de las características del mercado aplicado a servicios presenta problemáticas completamente distintas a las del estudio realizado para productos. Los servicios se caracterizan por, sobre todo, por la naturaleza transitoria de su oferta.
 
     separador
-
     .titulo-segundo(data-aos="fade-right")
       h2#t_1_2 1.2 Estimación de la oferta
     
@@ -140,7 +138,6 @@
             | #[strong Oferta monopólica:] solo existe un oferente del servicio o producto. Domina el mercado completamente implantando precio, calidad y cantidad. El caso clásico son los monopolios estatales. 
 
     separador
-
     .titulo-segundo(data-aos="fade-right")
       h2#t_1_3 1.3  Métodos de proyección de oferta y demanda
     
@@ -226,7 +223,6 @@
     p.mt-5(data-aos="fade-right") De esta forma, se trata de obtener una realidad acertada, buscando la famosa “media” que con una buena proyección de expertos puede ser cercana a la realidad.
 
     separador
-
     .titulo-segundo(data-aos="fade-right")
       h2#t_1_4 1.4  Datos históricos proyección de la demanda
 
@@ -240,7 +236,6 @@
           img(src="@/assets/curso/tema1/7.svg" data-aos="zoom-in-up" alt="Muestra gráfico de los métodos de datos históricos en series de tiempo o modelos que se pueden trabajar para determinar la proyección de la demanda y se describen abajo de la infografía.")
     
     separador
-
     .titulo-segundo(data-aos="fade-right")
       h2#t_1_5 1.5 Regresión lineal
     
@@ -259,7 +254,6 @@
     p.mt-5(data-aos="zoom-in") La regresión lineal es útil en proyecciones a largo plazo en planeaciones y se puede usar tanto para la proyección de serie de tiempos como en relaciones de proyección causal. Se debe tener en cuenta que si la variable dependiente (normalmente el eje vertical de la gráfica) cambia como resultado del tiempo (representado como eje horizontal de la gráfica) se trata de análisis de la serie de tiempos. Mientras que, si la variable cambia debido a la variación de otra, se trata de relación causal.
 
     separador
-
     .titulo-segundo(data-aos="fade-right")
       h2#t_1_6 1.6 Herramientas para la simulación de la oferta y la demanda
     
@@ -289,7 +283,6 @@
               | #[strong.text-white Integradores:] serán los encargados de revisar la lógica con la apariencia y funcionamiento del programa (#[em.text-white software]). #[br] Deben establecer la relación entre el modelo y la interfaz de usuario, es decir que se revisa a manera de controlador de la (controlador).
     
     separador
-
     .titulo-segundo(data-aos="fade-right")
       h2#t_1_7 1.7 Punto de equilibrio entre oferta y demanda
     
@@ -311,13 +304,6 @@
         p Este fenómeno conocido como exceso de oferta, es un proceso en el que se los productos con precios por encima del precio de equilibrio y pasa por lo general cuando la cantidad de producto ofrecida es mayor a la que el mercado requiere o demandada, los empresarios por lo general intentan controlar este fenómeno bajando los precios a los que están sus productos para así aumentar ventas.
       .row.col-xl-11.m-auto(titulo="II. Demanda en exceso")
         p Por otro lado, se tiene el exceso de la demanda y se conoce como la escasez de productos, significa que el precio del bien ofrecido está por debajo del precio de equilibrio, la cantidad requerida es mayor que la cantidad ofertada, de este modo se tiene que los productos tienden a aumentar los precios hasta un punto que equilibre el mercado. El ejemplo más común de esto es cuando los tapabocas escasearon en el momento del inicio de la pandemia del 2020, llegando a precios altos por la escases y la necesidad por parte de las personas de estos artículos.
-
-
-
-
-   
-
-
 
       
 </template>

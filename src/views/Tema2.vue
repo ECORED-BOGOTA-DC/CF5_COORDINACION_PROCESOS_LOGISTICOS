@@ -11,7 +11,6 @@
     p.mt-4(data-aos="fade-right") El gerente de la empresa maneja implícita o explícitamente los pronósticos en función de estimaciones aleatorias. Estas estimaciones son inexactas, pero pueden ser capacitadas. Esto es lo que hacen los modelos desarrollados para estos fines. Se puede entender a partir de la gestión de datos que en la mayoría de los procesos cuantitativos el estudio de los números aporta elementos que explican lo que va a suceder. Si los datos son fiables se pueden desarrollar modelos cercanos a la realidad. Los más comunes son:
 
     separador
-
     .titulo-segundo(data-aos="fade-right")
       h2#t_2_1 2.1 Estadística descriptiva
     
@@ -23,7 +22,7 @@
       .row.col-xl-11.m-auto(titulo="Variable cuantitativa")
         p Está determinada por la presencia o ausencia de una unidad de medida. Las unidades de medida se pueden calcular, medir o ponderar de acuerdo con las propiedades físicas de cualquier dispositivo. De manera similar, si aceptamos fracciones, podemos clasificarlas como continúas, y si consideramos solo unidades enteras, podemos clasificarlas como discretas. Por ejemplo, la altura (en centímetros) o el peso (en kilogramos) de una persona.
     
-    h4.mt-5(data-aos="fade-right" style="color:#1A0F91;") Medidas de tendencia central y de dispersión
+    h4.mt-5(data-aos="fade-right" style="color:#1A0F91;") <i class="fas fa-globe fa-spin" style="color: #57DBD8; padding-left: 5px"></i>Medidas de tendencia central y de dispersión
 
     p.mt-4(data-aos="fade-right") Designado para proporcionar información sobre conjunto de datos:
 
@@ -42,11 +41,11 @@
 
     h4.mt-5.text-center(data-aos="zoom-in") Tipos de datos en medidas de tendencia central y de dispersión
 
-    .col-xl-10.m-auto.mt-5
-      ImagenInfograficaB.color-primario(data-aos="zoom-in")
+    .col-xl-10.m-auto.mt-5(data-aos="zoom-in")
+      ImagenInfograficaB.color-primario
         template(v-slot:imagen)
           figure
-            img(src='@/assets/curso/tema2/1.svg' data-aos="zoom-in-up" alt="Muestra gráfico dodne identifica ls medidas de tendencia central y de dispersión las cuales se describen en la parte inferior.")
+            img(src='@/assets/curso/tema2/1.svg' alt="Muestra gráfico dodne identifica ls medidas de tendencia central y de dispersión las cuales se describen en la parte inferior.")
         div(x="11.5%" y="70%" tooltip="Medidas de dispersión" numero="+")
           p(style="color:#12263F !important;") Esto le dará una idea de cómo escaparon los datos dentro del rango medido en términos de media y distribución. Hay tres formas de medir la varianza de una variable cuantitativa: la desviación estándar o desviación típica, los rangos intercuartílicos y los valores mínimo y máximo. 
         div(x="30.5%" y="25%" tooltip="Medidas de posición " numero="+")
@@ -92,13 +91,11 @@
               | Infografía.
     
     separador
-
     .titulo-segundo(data-aos="fade-right")
       h2#t_2_2 2.2 Planeación de pronósticos según políticas de la organización
     
     p(data-aos="fade-right") La planeación es un proceso que toda empresa debe utilizar, ya que es el punto de partida para nuevos proyectos en diversas áreas como la fabricación y las ventas. Esto le permite identificar mejores estrategias para lograr objetivos como aumentar la demanda y optimizar el uso de recursos. 
     p.mt-4(data-aos="fade-right") Como todas las predicciones, existen límites para el error inevitable. Sin embargo, algunas técnicas pueden dar resultados precisos. Esto ayudará a la preparación para futuros desafíos y oportunidades.
-
 
     .col-xl-8.col-lg-10.m-auto.mt-5
       .titulo-sexto.color-acento-contenido(data-aos="fade-right")
@@ -120,7 +117,6 @@
         p Mayor responsabilidad, mayores capacidades de control de procesos, menor ambigüedad, mejor colaboración interna, etc. 
     
     separador
-
     .titulo-segundo(data-aos="fade-right")
       h2#t_2_3 2.3  Evaluar el comportamiento de la empresa frente al mercado - #[em benchmarking]
     
@@ -193,14 +189,13 @@
             p El #[em Benchmarking] nace con la necesidad de definir objetivos que sean razonables y alcanzables, para ello es necesario que se centren en el entorno externo de la empresa, dejando a un lado el entorno interno y las tendencias pasadas de la compañía.
             p.mt-4 El beneficio que podemos obtener del #[em Benchmarking] es la ayuda que nos proporciona para poder ampliar las expectativas y la confianza de nuestros clientes. Para poder llegar hasta ese punto, las empresas competitivas deben estar continuamente cambiando y adaptándose al mercado. Por ello es necesario motivar al personal para que confíen en una organización, y por lo tanto, conseguir los nuevos objetivos trazados.
     
-    p.mt-5(data-aos="fade-right") Elaborar el proceso del benchmarking no es complicado, pero si tiene un orden, revisar todo lo que hacen las otras empresas puede tomar mucho tiempo y por eso es necesario ordenarlo en busca de resultados más objetivos. Se recomienda el siguiente proceso a la hora de elaborar el benchmarking:
+    p.mt-5(data-aos="fade-right") Elaborar el proceso del #[em benchmarking] no es complicado, pero si tiene un orden, revisar todo lo que hacen las otras empresas puede tomar mucho tiempo y por eso es necesario ordenarlo en busca de resultados más objetivos. Se recomienda el siguiente proceso a la hora de elaborar el #[em benchmarking]:
 
     .col-xl-10.m-auto.mt-5
       figure(data-aos="zoom-in")
         img(src="@/assets/curso/tema2/9.svg" data-aos="zoom-in-up" alt="Muestra diagrama con proceso de benchmarking que se describe abajo la imagen.")
     
     separador
-
     .titulo-segundo(data-aos="fade-right")
       h2#t_2_4 2.4  Planeación, pronóstico y reabastecimiento colaborativo - CPFR
     
@@ -295,7 +290,6 @@
             | Costos de inversión e implementación.
     
     separador
-
     .titulo-segundo(data-aos="fade-right")
       h2#t_2_5 2.5  Herramientas para la proyección de pronósticos de oferta y demanda
     
