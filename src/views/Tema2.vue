@@ -14,7 +14,7 @@
     .titulo-segundo(data-aos="fade-right")
       h2#t_2_1 2.1 Estadística descriptiva
     
-    p(data-aos="fade-right") La estadística descriptiva es un campo de la ciencia estadística que se utiliza para resumir de forma clara y precisa los datos estadísticos de la encuesta utilizando ayudas gráficas como tablas, tablas y diagramas. Antes de realizar un análisis descriptivo, es recomendable volver a todos los propósitos del estudio e identificar los datos de la escala, junto con otras variables registradas en el trabajo. Hay dos tipos de variables de datos, las cuales son necesarias para las operaciones logísticas:
+    p(data-aos="fade-right") La estadística descriptiva es un campo de la ciencia estadística que se utiliza para resumir de forma clara y precisa los datos estadísticos de la encuesta utilizando ayudas gráficas como tablas y diagramas. Antes de realizar un análisis descriptivo, es recomendable volver a todos los propósitos del estudio e identificar los datos de la escala, junto con otras variables registradas en el trabajo. Hay dos tipos de variables de datos, las cuales son necesarias para las operaciones logísticas:
 
     AcordionA.acordion2.mt-5(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")
       .row.col-xl-11.m-auto(titulo="Variable cualitativa")
@@ -245,7 +245,7 @@
             | Mejora el rendimiento publicitario.
           li.mb-2(style="color:#12263F !important;")
             i.fas.fa-check.fa-li(style="color:#00BCD4;")
-            | Aumenta de los niveles de servicio al cliente y aumento de las ventas.
+            | Aumenta los niveles de servicio al cliente y aumento de las ventas.
       .tarjeta.color-acento-botones--borde.p-4(titulo="Eficiencias en el proceso")
         ul.fa-ul
           li.mb-2(style="color:#12263F !important;")

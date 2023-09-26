@@ -55,7 +55,7 @@
           p.mb-0 La estimación de la demanda es la predicción de la forma futura de la demanda de un producto. La información con respecto a la demanda futura variará según el producto o servicio ofrecido, y “es esencial para la planificación y programación de la producción, la compra de materias primas, adquisición de las finanzas y la publicidad, y también nos ayuda a ajustar los precios al ofertar un nuevo producto o al iniciar un nuevo negocio; durante un período definido de tiempo” Escuela de Organización Industrial (2012).
     
     p.mt-5(data-aos="fade-right") La medida de la demanda para un producto o servicio será la cantidad de personas que lo compran o hacen uso del mismo.
-    p.mt-4(data-aos="fade-right") Se hace necesario encontrar un balance entre lo que se produce y lo que se requiere para evitar pérdidas por malgasto de stock y más cuando se trata de productos perecederos o de rotación baja como por ejemplo los productos que se presentan para compras cada largo periodo de tiempo, es ahí donde se debe estimar el nivel de impacto que puede tener un producto o servicio en el mercado y la cantidad a producir.
+    p.mt-4(data-aos="fade-right") Se hace necesario encontrar un balance entre lo que se produce y lo que se requiere para evitar pérdidas por malgasto de <i>stock</i> y más cuando se trata de productos perecederos o de rotación baja como por ejemplo los productos que se presentan para compras cada largo periodo de tiempo, es ahí donde se debe estimar el nivel de impacto que puede tener un producto o servicio en el mercado y la cantidad a producir.
 
     .col-xl-8.m-auto.col-lg-10.mt-5
       .cajon.color-acento-contenido.p-4(style="background-color:#D5F6F5;" data-aos="flip-up")
@@ -83,7 +83,7 @@
             img(src='@/assets/curso/tema1/4.svg' alt="Imagen decorativa")
       .row.col-xl-11.m-auto(titulo="Tercera")
         .col-md-6.mb-4.mb-md-0.col-lg-7
-          p Las variaciones de precio al interior de un mercado en particular, reflejan características ampliamente apreciadas del producto (tamaño, color, variedad, calidad, etc.) y no hace distinción acerca del origen del producto. En ocasiones, se establecen parámetros de calidad específicos y a veces legales, que permiten comprender a calidad y otras características afectan los precios, por ejemplo, no más del 5% de los granos rotos.
+          p Las variaciones de precio al interior de un mercado en particular, reflejan características ampliamente apreciadas del producto (tamaño, color, variedad, calidad, etc.) y no hace distinción acerca del origen del producto. En ocasiones, se establecen parámetros de calidad específicos y a veces legales, que permiten comprender a calidad y otras características afectan los precios, por ejemplo, no más del 5 % de los granos rotos.
         .col-md-6.col-lg-5
           figure
             img(src='@/assets/curso/tema1/2.svg' alt="Imagen decorativa")
@@ -280,7 +280,7 @@
               | #[strong.text-white Diseñadores:] responsables de la forma o apariencia (visual) que tendrá el #[em.text-white software] (programa) ante los suscriptores y usuarios.
             li.mb-2.text-white(data-aos="fade-left")
               i.lista-ul__vineta.fa-li
-              | #[strong.text-white Integradores:] serán los encargados de revisar la lógica con la apariencia y funcionamiento del programa (#[em.text-white software]). #[br] Deben establecer la relación entre el modelo y la interfaz de usuario, es decir que se revisa a manera de controlador de la (controlador).
+              | #[strong.text-white Integradores:] serán los encargados de revisar la lógica con la apariencia y funcionamiento del programa (#[em.text-white software]). #[br] Deben establecer la relación entre el modelo y la interfaz de usuario.
     
     separador
     .titulo-segundo(data-aos="fade-right")
@@ -303,7 +303,7 @@
       .row.col-xl-11.m-auto(titulo="I. Oferta en exceso")
         p Este fenómeno conocido como exceso de oferta, es un proceso en el que se los productos con precios por encima del precio de equilibrio y pasa por lo general cuando la cantidad de producto ofrecida es mayor a la que el mercado requiere o demandada, los empresarios por lo general intentan controlar este fenómeno bajando los precios a los que están sus productos para así aumentar ventas.
       .row.col-xl-11.m-auto(titulo="II. Demanda en exceso")
-        p Por otro lado, se tiene el exceso de la demanda y se conoce como la escasez de productos, significa que el precio del bien ofrecido está por debajo del precio de equilibrio, la cantidad requerida es mayor que la cantidad ofertada, de este modo se tiene que los productos tienden a aumentar los precios hasta un punto que equilibre el mercado. El ejemplo más común de esto es cuando los tapabocas escasearon en el momento del inicio de la pandemia del 2020, llegando a precios altos por la escases y la necesidad por parte de las personas de estos artículos.
+        p Por otro lado, se tiene el exceso de la demanda y se conoce como la escasez de productos, significa que el precio del bien ofrecido está por debajo del precio de equilibrio, la cantidad requerida es mayor que la cantidad ofertada, de este modo se tiene que los productos tienden a aumentar los precios hasta un punto que equilibre el mercado. El ejemplo más común de esto es cuando los tapabocas escasearon en el momento del inicio de la pandemia del 2020, llegando a precios altos por la escasez y la necesidad por parte de las personas de estos artículos.
 
       
 </template>

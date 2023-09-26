@@ -225,7 +225,8 @@ export default {
       link: 'https://economipedia.com/',
     },
     {
-      referencia: 'Escuela de Organización Industrial. (2012).',
+      referencia:
+        'Escuela de Organización Industrial. (2012).<i>Técnica o método de estimación de demanda más efectiva.</i>',
       link:
         'https://www.eoi.es/blogs/scm/2012/12/18/tecnica-o-metodo-de-estimacion-de-demanda-mas-efectiva-4/',
     },
